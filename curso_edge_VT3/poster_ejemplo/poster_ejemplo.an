@@ -1,0 +1,79 @@
+{
+
+	"HTMLFileName":"poster_ejemplo.html",
+	"expanded:images/":"true",
+	"symbol_stage":{
+		"element_${_RoundRect}":{
+			"timelineColor2":"0x107faa",
+			"timelineColor3":"0x295a6d",
+			"timelineColor":"0x008dc8"},
+		"dummyStageParentWidth":"1275px",
+		"dummyStageParentHeight":"1875px",
+		"element_${_basket_vector}":{
+			"timelineColor2":"0x326a96",
+			"timelineColor3":"0x385063",
+			"invisible":"false",
+			"timelineColor":"0x2f73ad"},
+		"element_${_Baloncesto_fondo}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"animationEnabled":"false",
+			"timelineColor":"0x91c767"},
+		"defaultStageParentHeight":"1875px",
+		"element_${_Rectangle}":{
+			"timelineColor2":"0x1095d2",
+			"timelineColor3":"0x29647e",
+			"invisible":"false",
+			"timelineColor":"0x00a9fa"},
+		"element_${_logobaloncesto}":{
+			"timelineColor2":"0x168c84",
+			"invisible":"false",
+			"timelineColor":"0x00a096",
+			"locked":"false",
+			"timelineColor3":"0x2a605c"},
+		"defaultStageParentWidth":"1275px",
+		"element_${_fans}":{
+			"timelineColor2":"0x1aa38f",
+			"invisible":"false",
+			"timelineColor":"0x00bda4",
+			"locked":"false",
+			"timelineColor3":"0x2a6a61"},
+		"element_${_Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"invisible":"false",
+			"timelineColor":"0xeedf79"},
+		"element_${_Baloncesto_fondo2}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"invisible":"false",
+			"timelineColor":"0x50bd82"}},
+	"CompZoomFactor":"100",
+	"StageZoomFactor":"50",
+	"usedBOM":"false",
+	"nextElementColorIndex":"9",
+	"stage-Default Timeline_playhead_ms":"0",
+	"pref__general__FilterNonAnimatedElements":"false",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+            \"ElementKeyframes\": {\
+                \"${_RoundRect}\": [], \
+                \"${_basket_vector}\": [], \
+                \"${_Baloncesto_fondo2}\": [], \
+                \"${_Stage}\": [], \
+                \"${_Rectangle}\": []\
+            }\
+      }\
+   }},\
+\"Precargador\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Nivel inferior\": {\
+   \"timelines\": {\
+\
+   }}\
+}",
+	"viewStartY":"0"}
